@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Employee-mgt-syst/static/css/main.24135e70.css",
+    "main.js": "/Employee-mgt-syst/static/js/main.8d37cb6b.js",
+    "index.html": "/Employee-mgt-syst/index.html",
+    "main.24135e70.css.map": "/Employee-mgt-syst/static/css/main.24135e70.css.map",
+    "main.8d37cb6b.js.map": "/Employee-mgt-syst/static/js/main.8d37cb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24135e70.css",
+    "static/js/main.8d37cb6b.js"
+  ]
+}
