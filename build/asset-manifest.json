@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/employee-management-system-deployed/static/css/main.24135e70.css",
+    "main.js": "/employee-management-system-deployed/static/js/main.8d37cb6b.js",
+    "index.html": "/employee-management-system-deployed/index.html",
+    "main.24135e70.css.map": "/employee-management-system-deployed/static/css/main.24135e70.css.map",
+    "main.8d37cb6b.js.map": "/employee-management-system-deployed/static/js/main.8d37cb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24135e70.css",
+    "static/js/main.8d37cb6b.js"
+  ]
+}
