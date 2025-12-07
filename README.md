@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Employee Management System
+
+A web-based system to manage employee records, departments, and positions.  
+This app demonstrates CRUD operations, frontend-backend integration, and basic dashboard functionality.
+
+## 🛠️ Tech Stack
+- Frontend: JavaScript, HTML, CSS
+- Backend: Node.js / Express
+- Database: Firebase / MongoDB / SQL (adjust as per project)
+
+## 🚀 Features
+- Add, edit, delete employee records
+- Department & position management
+- Simple admin dashboard
+
+## ⚠️ License
+© Nebiyu Tefera — All rights reserved.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
